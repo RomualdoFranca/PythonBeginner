@@ -55,7 +55,7 @@ print(f"Original list: {list_numbers}")
 #ordeded list altering the original
 # list_numbers.sort()
 # print(list_numbers)
-#reverse order without altering the original list
+#reverse order without altering the original list...
 sorted_numbers =  sorted(list_numbers)
 print(f"Order copy {sorted_numbers}")
 print(list_numbers)
